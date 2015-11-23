@@ -18,7 +18,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://192.168.2.214:21477/05c9e4f4b048a63751780f2921e61f69.57x57.PNG</string>
+						<string>http://www.apicloud.com/image/png/05/c9/05c9e4f4b048a63751780f2921e61f69.57x57.PNG</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -26,15 +26,15 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://192.168.2.214:21477/05c9e4f4b048a63751780f2921e61f69.57x57.PNG</string>
+						<string>http://www.apicloud.com/image/png/05/c9/05c9e4f4b048a63751780f2921e61f69.57x57.PNG</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.apicloud.A6985369137957</string>
+					<string>com.apicloud.testapp</string>
 					<key>bundle-version</key>
-					<string>0.0.0</string>
+					<string>0.0.1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
